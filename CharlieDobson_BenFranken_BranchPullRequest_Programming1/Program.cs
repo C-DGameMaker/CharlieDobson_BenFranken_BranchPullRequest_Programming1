@@ -10,7 +10,12 @@ namespace CharlieDobson_BenFranken_BranchPullRequest_Programming1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!")
+            Console.WriteLine("Hello World!");
+
+            Console.ReadKey(true);
+            Console.Clear();
+
+            Console.WriteLine("This is our other branch speaking.");
         }
     }
 }

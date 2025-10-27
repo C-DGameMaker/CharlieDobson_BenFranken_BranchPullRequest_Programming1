@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\w0527459\\Documents\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\",
+  "WorkspaceRootPath": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\w0527459\\Documents\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{09B495AA-92DA-4AA3-BB9A-B15CC1FBECC9}|CharlieDobson_BenFranken_BranchPullRequest_Programming1\\CharlieDobson_BenFranken_BranchPullRequest_Programming1.csproj|c:\\charlie\u0027s coding assigments\\charliedobson_benfranken_branchpullrequest_programming1\\charliedobson_benfranken_branchpullrequest_programming1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B495AA-92DA-4AA3-BB9A-B15CC1FBECC9}|CharlieDobson_BenFranken_BranchPullRequest_Programming1\\CharlieDobson_BenFranken_BranchPullRequest_Programming1.csproj|solutionrelative:charliedobson_benfranken_branchpullrequest_programming1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\w0527459\\Documents\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs",
+              "DocumentMoniker": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs",
               "RelativeDocumentMoniker": "CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs",
-              "ToolTip": "C:\\Users\\w0527459\\Documents\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs",
+              "ToolTip": "C:\\Charlie\u0027s Coding Assigments\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs",
               "RelativeToolTip": "CharlieDobson_BenFranken_BranchPullRequest_Programming1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T12:15:02.461Z",
               "EditorCaption": ""
