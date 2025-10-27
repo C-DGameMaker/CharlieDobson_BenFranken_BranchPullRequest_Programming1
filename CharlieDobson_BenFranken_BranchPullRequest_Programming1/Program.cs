@@ -15,7 +15,12 @@ namespace CharlieDobson_BenFranken_BranchPullRequest_Programming1
             Console.ReadKey(true);
             Console.Clear();
 
-            Console.WriteLine("This is our other branch speaking.");
+            Console.WriteLine("This is our other branch speaking! My changes are better!");
+
+            Console.ReadKey();
+            Console.Clear();
+
+            Console.WriteLine("I've actually decided we should change your legal name to Two... Thoughts?");
         }
     }
 }
